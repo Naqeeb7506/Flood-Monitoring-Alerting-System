@@ -1,6 +1,37 @@
-# Flood-Monitoring-Alerting-System
-India has a sub-tropical monsoonal climate characterized by heavy rainfall which in turn causes massive flooding. To avoid such situations, it is very important to monitor and receive timely emergency alerts about the flow of water and water level situation based of the riverbed. This project focuses on developing a system based on advanced sensors and Wi-Fi module that will sense the current water level and flow of water in riverbeds, in case of the level reaching the threshold, system will generate early email alerts making everyone aware of the flood possibilities. We have connected all the sensors to Arduino UNO, which helps us to process and store data. The system is enabled to send email alerts as well to notify a larger audience. 
-Keywords: Wi-Fi, Flooding, Water Level, Monitor, Emergency Alerts, Arduino UNO, Email Alerts, Sensors, Buzzer, Display, Led.
+# Flood monitoring and alerting system
 
-A flood monitoring system is used to monitor a rise in water levels. The system comprises sensors that are deployed in cities or any area of interest. The sensors can be connected to either the main electricity or can be solar-powered. These sensors are deployed on bridges, wells, lakes, or beaches to measure water levels in real-time and continuously send data remotely to the centralized data system management via different networks such as GSM, mobile cell networks, or Wi-Fi. As we all know that Flood is one of the major well known Natural Disasters. When water level suddenly rises in dams, river beds etc. A lot of Destruction happens at surrounding places. It causes a huge amount of loss to our environment and living beings as well. So, in this case, it is very important to get emergency alerts of the water level situation in different conditions in the river bed. The purpose of this project is to sense the water level in river beds and check if they are in normal condition. If they reach beyond the limit, then it alerts people through LED signals and buzzer sound. Also, it alerts people through SMS and Emails alerts when the water level reaches beyond the limit.
+> **Abstract** : The purpose of Flood monitoring and alerting system project is to sense the water level in river beds and check if they are in normal condition. If they reach beyond the limit, then it alerts people through LED signals and buzzer sound. Also it alerts people through Sms and Emails alerts when the water level reaches beyond the limit.
 
+### Project Members
+1. ANSARI AFFAN MOHAMMAD ALTAF  [ Team Leader ] 
+2. SHAIKH  AFFAN SAJID 
+3. ANSARI MOHD NAQEEB MOHD HANIF 
+4. KHAN SHOEB RAZA SARDAR 
+
+### Project Guides
+1. PROF. RAMYA KANAGARAJ  [ Primary Guide ] 
+
+### Deployment Steps
+Please follow the below steps to run this project.
+1. Step 1 here
+2. Step 2 here
+3. Step 3 here
+3. and so on...
+
+### Subject Details
+- Class : TE (COMP) Div A - 2022-2023
+- Subject : Mini Project Lab: 2B (mP2B)
+- Project Type : Mini Project
+
+### Platform, Libraries and Frameworks used
+1. [NodeJS](https://nodejs.org)
+2. [ExpressJS](https://expressjs.org)
+3. [TensorFlow](https://tensorflowjs.com)
+
+### Dataset Used
+1. [Kaggle Dataset 1](https://kaggle.com/dataset1)
+2. [Kaggle Dataset 2](https://kaggle.com/dataset2)
+
+### References
+- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
+- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
